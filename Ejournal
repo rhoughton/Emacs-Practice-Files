@@ -4,3 +4,7 @@ Many might think I'm crazying mixing emacs and vi, truth is I don't like vi as m
 However, there are a few functions I like such as the backspace not deleting but 
 literally being a backspace! Then the overwriting happens. 
 Also, I like how some of the keys are the same as on the terminal like ctrl a and e.
+2.6.20
+Questions to answer today: How to sef line wrapping to visual line mode, or wrap at edge by default? Or key binding?
+Also, how to alias ls to always pipe into less, do I use a wildcard? *
+Also, get the color code to work on my tree program insides the alias file. 
