@@ -1,0 +1,6 @@
+Questions to answer today: How to sef line wrapping to visual line mode, or wrap at edge by default? Or key binding?
+Also, how to alias ls to always pipe into less, do I use a wildcard? *
+Also, get the color code to work on my tree program insides the alias file.
+Also, how do I permanently take out the need for sudo cmd while I'm gitguest on Cent2?
+-probably shouldn't do that but maybe good to know? Eh, deal with the pain for now. I'll
+navigate as root often enough on Cent2. I'm happy to work via this environment though the black screen made me feel at home in Cent env. Question: How to turn off so much autosaving? It's interrupting my journaling here! Test

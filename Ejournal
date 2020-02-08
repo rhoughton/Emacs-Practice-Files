@@ -5,6 +5,10 @@ However, there are a few functions I like such as the backspace not deleting but
 literally being a backspace! Then the overwriting happens. 
 Also, I like how some of the keys are the same as on the terminal like ctrl a and e.
 2.6.20
-Questions to answer today: How to sef line wrapping to visual line mode, or wrap at edge by default? Or key binding?
-Also, how to alias ls to always pipe into less, do I use a wildcard? *
-Also, get the color code to work on my tree program insides the alias file. 
+-I did have a hiccup, Cent didn't have an active connection and I keep forget the cmd I used that brought me to a gui, but b/c of that I found a new way to activate my connection that is easy to remember! ifup enp0s3
+-I could go to the /etc/sysconfig/network-scripts/ifcfg-enp0s3 file and change ONBOOT to yes, or I can master this one cmd, then change configurations after the lesson is learned!
+-another way I heard, just type in dhclient to attemp to configure all interfaces... I'll tryit next time maybe.
+2/7/2020
+I had a strange occurence, 2 files called .spacemacs one in the home dir and the other in the emacs.d dir so what happened? Well idk... but the one in the home is the right one, I tested this theory by changing the value of the maximize screen on startup to 't' but I also changed a few other packages I was bringing in and now I have a lambda on the screen of my eshell?!!!!??
+-green means I'm in insert mode, blue is traditional emacs, and yellow is vim navigation which is my fav b/c I can use the space bar and doulbe spc if I need to get into the c-x realm.
+m-w for copy, m-h for highlight all.   
